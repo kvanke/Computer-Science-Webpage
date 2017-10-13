@@ -1,0 +1,19 @@
+body {
+  background-color: rgba(0, 0, 0, .05);
+  text-align: center;
+}
+h1 {
+  font-family: 'Special Elite';
+  color: black;
+  font-size: 40px;
+  max-width: inherit;
+}
+
+h2 {
+  font-family: 'Special Elite';
+  color:#722f37;
+  text-align: center;
+}
+li {
+  padding: 5px;
+}
